@@ -140,7 +140,7 @@ The analysis includes:
 * Monthly charges
 * Churn patterns across customer segments
 
-![Customer Overview](screenshots/01_Customer_Overview.png)
+![Customer Overview](screenshots/01_Customer_Overview.jpeg)
 
 ---
 
@@ -160,7 +160,7 @@ The analysis includes:
 
 This page helps identify services and service combinations associated with higher customer churn.
 
-![Service Subscription Analysis](screenshots/02_service_subscription_analysis.png)
+![Service Subscription Analysis](screenshots/02_service_subscription_analysis.jpeg)
 
 ---
 
@@ -180,7 +180,7 @@ The analysis includes:
 
 This page helps identify how contract and billing patterns may influence customer retention.
 
-![Contract and Billing Insights](screenshots/03_Contract_Billing_Insights.png)
+![Contract and Billing Insights](screenshots/03_Contract_Billing_Insights.jpeg)
 
 ---
 
@@ -199,7 +199,7 @@ Key areas include:
 * Monthly charges and churn behavior
 * Customer retention patterns
 
-![Churn Analysis](screenshots/04_Churn_Prediction_Key_Drivers.png)
+![Churn Analysis](screenshots/04_Churn_Prediction_Key_Drivers.jpeg)
 
 ---
 
@@ -247,19 +247,19 @@ The project contains 4 Power BI dashboard pages:
 
 ### Customer Overview
 
-![Customer Overview](screenshots/01_Customer_Overview.png)
+![Customer Overview](screenshots/01_Customer_Overview.jpeg)
 
 ### Service Subscription Analysis
 
-![Service Subscription Analysis](screenshots/02_service_subscription_analysis.png)
+![Service Subscription Analysis](screenshots/02_service_subscription_analysis.jpeg)
 
 ### Contract and Billing Insights
 
-![Contract and Billing Insights](screenshots/03_Contract_Billing_Insights.png)
+![Contract and Billing Insights](screenshots/03_Contract_Billing_Insights.jpeg)
 
 ### Churn Analysis
 
-![Churn Analysis](screenshots/04_Churn_Prediction_Key_Drivers.png)
+![Churn Analysis](screenshots/04_Churn_Prediction_Key_Drivers.jpeg)
 
 ---
 
